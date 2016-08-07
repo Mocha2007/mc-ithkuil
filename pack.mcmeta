@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":2,
+      "description":"Ithkuil Language"
+   },
+   "language":{
+      "IT_HK":{
+         "name":"Ithkuil",
+         "region":"Ithkuil-land",
+         "bidirectional":false
+      }
+   }
+}
