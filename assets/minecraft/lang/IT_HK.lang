@@ -15,13 +15,13 @@ gui.no=No
 gui.none=None
 gui.all=All
 
-translation.test.none=Hello, world!
+translation.test.none=attál, swël!
 translation.test.complex=Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
 translation.test.escape=%%s %%%s %%%%s %%%%%s
-translation.test.invalid=hi %
-translation.test.invalid2=hi %  s
+translation.test.invalid=attál %
+translation.test.invalid2=attál %  s
 translation.test.args=%s %s
-translation.test.world=world
+translation.test.world=swal
 
 menu.game=Game menu
 menu.singleplayer=vàlm
@@ -122,7 +122,7 @@ createWorld.customize.custom.useCaves=Caves
 createWorld.customize.custom.useStrongholds=Strongholds
 createWorld.customize.custom.useVillages=utwaļós
 createWorld.customize.custom.useMineShafts=Mineshafts
-createWorld.customize.custom.useTemples=Temples
+createWorld.customize.custom.useTemples=qʰatļís
 createWorld.customize.custom.useMonuments=Ocean Monuments
 createWorld.customize.custom.useRavines=Ravines
 createWorld.customize.custom.useDungeons=Dungeons
@@ -132,7 +132,7 @@ createWorld.customize.custom.waterLakeChance=Water Lake Rarity
 createWorld.customize.custom.useLavaLakes=uktalós
 createWorld.customize.custom.lavaLakeChance=Lava Lake Rarity
 createWorld.customize.custom.useLavaOceans=uktalosóx
-createWorld.customize.custom.fixedBiome=Biome
+createWorld.customize.custom.fixedBiome=tašk
 createWorld.customize.custom.biomeSize=Biome Size
 createWorld.customize.custom.riverSize=River Size
 
